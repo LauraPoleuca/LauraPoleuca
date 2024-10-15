@@ -4,7 +4,7 @@ Hi 👋 My name is Laura Poleucă
 Student with a focus on Web and Distributed Systems
 ---------------------------------------------------
 
-I am a student at TUIASI, specialising in Distributed Systems and Web Technologies, with a strong willingness to explore all areas of software and hardware development. Highly motivated to learn and adapt to new technologies, with a particular affinity for web development. Always eager to take on challenges and expand knowledge across diverse fields within the tech industry.
+I am a student at TUIASI, specializing in Distributed Systems 🌐 and Web Technologies 💻, willing to explore all areas of software and hardware development. Highly motivated to learn 📚 and adapt to new technologies, with a particular affinity for web development 💡. Always eager to take on challenges 🚀 and expand knowledge across diverse fields within the tech industry ✨
 
 *   🌍  I'm based in Iași, Romania
 *   ✉️  You can contact me at [poleuca.laura@gmail.com](mailto:poleuca.laura@gmail.com)
